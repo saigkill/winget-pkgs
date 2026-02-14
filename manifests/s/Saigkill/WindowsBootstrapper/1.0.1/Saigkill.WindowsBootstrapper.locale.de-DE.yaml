@@ -1,0 +1,8 @@
+﻿PackageIdentifier: Saigkill.WindowsBootstrapper
+PackageVersion: 1.0.1
+PackageLocale: de-DE
+Publisher: Sascha Manns
+PackageName: Windows Bootstrapper
+ShortDescription: Automatischer Windows-Bootstrapper für Systemkonfiguration und Softwareinstallation.
+ManifestType: locale
+ManifestVersion: 1.6.0
