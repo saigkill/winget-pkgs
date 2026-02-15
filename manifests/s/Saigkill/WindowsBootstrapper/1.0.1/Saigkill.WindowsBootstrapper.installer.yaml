@@ -1,4 +1,4 @@
-﻿PackageIdentifier: Saigkill.WindowsBootstrapper
+PackageIdentifier: Saigkill.WindowsBootstrapper
 PackageVersion: 1.0.1
 InstallerType: portable
 Installers:
