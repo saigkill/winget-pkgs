@@ -1,0 +1,8 @@
+﻿PackageIdentifier: Saigkill.ServiceMonitor
+PackageVersion: 
+PackageLocale: de-DE
+Publisher: Sascha Manns
+PackageName: ServiceMonitor
+ShortDescription: ServiceMonitor ist ein leichtgewichtiges, konfigurierbares Überwachungstool für Linux und Windows basierte Systeme.
+ManifestType: locale
+ManifestVersion: 1.6.0

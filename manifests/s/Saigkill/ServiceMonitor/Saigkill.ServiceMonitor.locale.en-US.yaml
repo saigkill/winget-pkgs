@@ -1,0 +1,8 @@
+﻿PackageIdentifier: Saigkill.ServiceMonitor
+PackageVersion: 
+PackageLocale: en-US
+Publisher: Sascha Manns
+PackageName: ServiceMonitor
+ShortDescription: ServiceMonitor is a lightweight, configuration‑driven monitoring tool designed for Windows and Linux‑based systems (including QNAP NAS).
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
